@@ -39,7 +39,8 @@
   "author": "Google LLC",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "lit": "^2.1.0"
+    "lit": "^2.1.0",
+    "lit-element-router": "^2.0.3"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
